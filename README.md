@@ -19,13 +19,21 @@ Backups using AWS Backup for recovery
 🛠️ Tools and AWS Services Used
 
 AWS GuardDuty – Threat detection
+
 AWS CloudTrail – API activity logs
+
 AWS CloudWatch – Alarm and log monitoring
+
 Amazon S3 – Secure object storage with versioning
+
 AWS Lambda – Automate EC2 isolation
+
 Amazon SNS – Notification service for alerts
+
 AWS IAM – User and permission management
+
 AWS Backup – Scheduled backups for recovery
+
 EventBridge – Triggers Lambda functions on specific events
 
 🗂️ Project Structure
@@ -41,8 +49,11 @@ lambda ->
 ✅ Prerequisites
 
 AWS account with admin or necessary service permissions
+
 Basic knowledge of AWS Console
+
 Python installed (for Lambda function)
+
 AWS CLI configured 
 
 🚀 How to Use (Steps Summary)
