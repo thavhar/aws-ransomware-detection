@@ -35,7 +35,7 @@ README.md -
 poc-guide.md -
 architecture.png-
 lambda ->
-(isolate_ec2.py)
+(LamdaCode.py)
 
 
 ✅ Prerequisites
